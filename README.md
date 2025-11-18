@@ -1,6 +1,6 @@
-- Hi, I’m @Link 1503
+- Hi, I’m Julia
 - I’m interested in stuff I guess
-- Python | C# | JavaScript
+- Python | Java | JavaScript
 - Discord : [@Link_1503](https://discord.com/users/437310799258583050)
 - She/Them
 - Website: [b1o.eu](https://www.b1o.eu/@link_1503)
