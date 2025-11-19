@@ -7,4 +7,4 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E2R5OGD)
 
-![activity](https://raw.githubusercontent.com/JuliaKnoth/juliaknoth/output/github-contribution-grid-snake-dark.svg)
+![activity](https://raw.githubusercontent.com/JuliaKnoth/JuliaKnoth/output/github-contribution-grid-snake-dark.svg)
