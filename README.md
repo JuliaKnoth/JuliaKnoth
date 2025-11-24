@@ -9,4 +9,4 @@
 
 ![activity](https://raw.githubusercontent.com/JuliaKnoth/JuliaKnoth/output/github-contribution-grid-snake-dark.svg)
 
-<sub> Animation by [DynamicGoose](https://github.com/DynamicGoose/dynamicgoose)
+<sub> Animation "inspired" by [DynamicGoose](https://github.com/DynamicGoose/dynamicgoose)
